@@ -5,7 +5,9 @@
 tcltk r package
 
 ### Data
-
+Data
+  |_ OB
+  |_ OT
 
 ### Input parameters
 OBorOT
