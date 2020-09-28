@@ -6,12 +6,12 @@ tcltk r package
 
 ### Data
 Data\
-  OB\
-      Normal\
-      Cancer\
-  OT\
-      Normal\
-      Cancer\
+  -OB\
+      -Normal\
+      -Cancer\
+  -OT\
+      -Normal\
+      -Cancer\
 
 ### Input parameters
 OBorOT
