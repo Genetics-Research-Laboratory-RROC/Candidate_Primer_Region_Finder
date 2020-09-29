@@ -4,8 +4,9 @@
 ### Requirment
 tcltk r package
 
-### Data
-![Data structure](Data_structure.png)
+# Data structure!
+
+![Data structure](Data_Structure.png)
 
 ### Input parameters
 OBorOT
