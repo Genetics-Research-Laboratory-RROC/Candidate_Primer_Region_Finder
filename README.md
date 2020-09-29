@@ -2,7 +2,7 @@
 ## A simple and cost-effective approach for technical validation of next generation methylation sequencing data
 
 ### Requirment
-tcltk r package
+  * tcltk r package
 
 # Data structure!
 
