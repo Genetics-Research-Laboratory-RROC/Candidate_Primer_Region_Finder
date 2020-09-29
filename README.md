@@ -9,7 +9,7 @@
 ![Data structure](Data_Structure.png)
 
 ### Input parameters
-OBorOT
-limit_len_small
-limit_len_big
-CovThr
+ * OBorOT
+ * limit_len_small
+ * limit_len_big
+ * CovThr
