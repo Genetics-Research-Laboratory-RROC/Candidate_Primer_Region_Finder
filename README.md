@@ -5,7 +5,7 @@
 tcltk r package
 
 ### Data
-
+![Data structure](Data_structure.png)
 
 ### Input parameters
 OBorOT
