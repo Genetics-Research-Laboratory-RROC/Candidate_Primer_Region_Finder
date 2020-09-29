@@ -4,7 +4,7 @@
 ### Requirment
   * tcltk r package
 
-# Data structure!
+### Data structure
 
 ![Data structure](Data_Structure.png)
 
