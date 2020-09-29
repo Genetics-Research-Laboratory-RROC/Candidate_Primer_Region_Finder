@@ -26,3 +26,4 @@
 
 ### Output
  Location of CpG site in the target region which sorted according to fisher ratio.
+![Output](Output.png)
