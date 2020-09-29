@@ -21,7 +21,7 @@
 
 
 ### Output
-1- Initillize input parameters
-2- Run main r code
-3- select data and  code directory in directory chooder window
-4-
+1. Initillize input parameters
+2. Run main r code
+3. select data and  code directory in directory chooder window
+4.
